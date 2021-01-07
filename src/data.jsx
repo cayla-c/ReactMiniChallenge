@@ -62,7 +62,7 @@ const animalFacts = [
   {
     id: 9,
     animal: "Grizzly Bear",
-    fact: "A Grissly Bear's bite is strong enough to crush a bowling ball.",
+    fact: "A Grizzly Bear's bite is strong enough to crush a bowling ball.",
     image: "https://freerangestock.com/sample/135750/grizzly-bear.jpg",
   },
   {

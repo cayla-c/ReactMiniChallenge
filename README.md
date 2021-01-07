@@ -18,7 +18,7 @@ It is reccomended to complete the requirements in an order similar to the outlin
 | 3     | In FactsList.jsx, dynamically render the data HINT: use the map method to render each item in the data array to a Fact component                                |
 | 4     | Fill in the Fact component with the data that's been passed down through props. Consider what data type a single item from the animalFacts array in data.jsx is |
 | 5     | Create an event handler function called handleFavoriteClick in App.jsx which updates the state of favorite with the name of the animal that is favorited        |
-| TIP   | Start by just adding a console.log statemet like console.log(Clicked!) in the handleFavoriteClick function to see if you can get the function to fire           |
+| TIP   | Start by just adding a console.log statement like console.log(Clicked!) in the handleFavoriteClick function to see if you can get the function to fire           |
 | 6     | Pass the handleFavoriteClick method down from the App component to the Fact component                                                                           |
 | 7     | Connect handleFavoriteClick to an onClick event attached to the button in Fact.jsx. HINT: add a value property to the button and set equal to the animal name   |
 | TIP   | You can console.log(e.target.value) in the handleFavoriteClick function to check if you've set the correct value for the Favorite button onClick event          |
